@@ -11,7 +11,7 @@ A secure and efficient **RFID-based smart lock system** using Arduino. This proj
 
 ## 📸 Project Preview
 
-(https://youtu.be/p05HAtv-6d0)
+https://youtu.be/p05HAtv-6d0
 
 ---
 
@@ -137,12 +137,6 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Mayank Biswas**
-
----
-
-## Demo
-
-https://youtu.be/p05HAtv-6d0
 
 ----
 
