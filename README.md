@@ -11,7 +11,7 @@ A secure and efficient **RFID-based smart lock system** using Arduino. This proj
 
 ## 📸 Project Preview
 
-![RFID Lock](https://via.placeholder.com/800x400.png?text=RFID+Smart+Lock+System)
+(https://youtu.be/p05HAtv-6d0)
 
 ---
 
