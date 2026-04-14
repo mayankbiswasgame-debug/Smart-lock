@@ -146,6 +146,12 @@ ihih
 
 ----
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](circuit.png)
+
+----
+
 ## ⭐ Support
 
 If you like this project:
